@@ -1,29 +1,19 @@
-{ 
-  "first_name" : "Sammy",
-  "last_name" : "Shark",
-  "location" : "Ocean",
-  "websites" : [ 
+{
+  "posts": [
     {
-      "description" : "work",
-      "URL" : "https://www.digitalocean.com/"
+      "id": 1,
+      "title": "hello"
     },
     {
-      "desciption" : "tutorials",
-      "URL" : "https://www.digitalocean.com/community/tutorials"
+      "id": 2,
+      "title": "hayyy"
+    },
+    {
+      "id": 3,
+      "title": "hello hayy"
     }
   ],
-  "social_media" : [
-    {
-      "description" : "twitter",
-      "link" : "https://twitter.com/digitalocean"
-    },
-    {
-      "description" : "facebook",
-      "link" : "https://www.facebook.com/DigitalOceanCloudHosting"
-    },
-    {
-      "description" : "github",
-      "link" : "https://github.com/digitalocean"
-    }
-  ]
+  "profile": {
+    "name": "typicode"
+  }
 }
