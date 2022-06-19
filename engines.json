@@ -1,31 +1,5 @@
 {
-    "success": true,
-    "ENGINES": [
-        {
-            "ENGINE": "CSV",
-            "SUPPORT": "YES",
-            "COMMENT": "Stores tables as CSV files",
-            "TRANSACTIONS": "NO",
-            "XA": "NO",
-            "SAVEPOINTS": "NO"
-        },
-        {
-            "ENGINE": "MRG_MyISAM",
-            "SUPPORT": "YES",
-            "COMMENT": "Collection of identical MyISAM tables",
-            "TRANSACTIONS": "NO",
-            "XA": "NO",
-            "SAVEPOINTS": "NO"
-        },
-         {
-            "ENGINE": "PERFORMANCE_SCHEMA",
-            "SUPPORT": "YES",
-            "COMMENT": "Performance Schema",
-            "TRANSACTIONS": "NO",
-            "XA": "NO",
-            "SAVEPOINTS": "NO"
-        }
-    ],
-    "totalRecordCount": 8,
-    "version": "17.0.13"
+	"judul": "Panduan Lengkap Memahami JSON", 
+	"penulis": "Agus Prawoto Hadi", 
+	"date":"2018-01-25"
 }
