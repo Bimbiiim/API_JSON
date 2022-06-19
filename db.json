@@ -1,33 +1,29 @@
-{
-  "title": "The Basics - Networking",
-  "description": "Your app fetched this from a remote endpoint!",
-  "movies": [
-    { 
-      "sammy" : 
-      {
-    "username"  : "SammyShark",
-    "location"  : "Indian Ocean",
-    "online"    : true,
-    "followers" : 987 
-      },
-      "jesse" : {
-    "username"  : "JesseOctopus",
-    "location"  : "Pacific Ocean",
-    "online"    : false,
-    "followers" : 432
-      },
-      "drew" : {
-    "username"  : "DrewSquid",
-    "location"  : "Atlantic Ocean",
-    "online"    : false,
-    "followers" : 321
-     },
-      "jamie" : {
-    "username"  : "JamieMantisShrimp",
-    "location"  : "Pacific Ocean",
-    "online"    : true,
-    "followers" : 654
+{ 
+  "first_name" : "Sammy",
+  "last_name" : "Shark",
+  "location" : "Ocean",
+  "websites" : [ 
+    {
+      "description" : "work",
+      "URL" : "https://www.digitalocean.com/"
+    },
+    {
+      "desciption" : "tutorials",
+      "URL" : "https://www.digitalocean.com/community/tutorials"
     }
-  }
-     ]
+  ],
+  "social_media" : [
+    {
+      "description" : "twitter",
+      "link" : "https://twitter.com/digitalocean"
+    },
+    {
+      "description" : "facebook",
+      "link" : "https://www.facebook.com/DigitalOceanCloudHosting"
+    },
+    {
+      "description" : "github",
+      "link" : "https://github.com/digitalocean"
+    }
+  ]
 }
