@@ -1,11 +1,11 @@
 {
   "title": "The Basics - Networking",
   "description": "Your app fetched this from a remote endpoint!",
-  "movies": [
-    { "id": "1", "title": "Star Wars", "releaseYear": "1977" },
-    { "id": "2", "title": "Back to the Future", "releaseYear": "1985" },
-    { "id": "3", "title": "The Matrix", "releaseYear": "1999" },
-    { "id": "4", "title": "Inception", "releaseYear": "2010" },
-    { "id": "5", "title": "Interstellar", "releaseYear": "2014" }
+  "users": [
+    { "id": "001", "name": "Bima", "Lahir": "2001","websites" : [ { "description" : "picture", "URL" : "https://www.instagram.com/p/Byzl3cmAbDL/" } ] },
+    { "id": "002", "name": "Japar", "Lahir": "1997" },
+    { "id": "003", "name": "Tawab", "Lahir": "1998" },
+    { "id": "004", "name": "Ellang", "Lahir": "2003" },
+    { "id": "005", "name": "Repan", "Lahir": "2002" }
   ]
 }
