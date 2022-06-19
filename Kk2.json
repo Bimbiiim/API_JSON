@@ -1,0 +1,9 @@
+{
+  "title": "The Basics - Networking",
+  "description": "Your app fetched this from a remote endpoint!",
+  "movies": [
+    { "id": "1", "title": "Aplikasi ini terbilang sangat powerfull untuk merekam siapa saja yang coba membuka kunci layar smartphone kamu." },
+    { "id": "2", "title": "Untuk dapat menggunakan aplikasi ini lengkap dengan fitur-fitur lain yang lebih powerfull lagi, kamu bisa lakukan pembelian langsung di dalam aplikasinya." },
+    { "id": "3", "title": "Semoga artikel ini bermanfaat." }
+  ]
+}
